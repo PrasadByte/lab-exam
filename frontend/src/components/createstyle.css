@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(223, 186, 179);
+    
+}
+form{
+    background: border-box;
+    margin-right: 50px;
+    margin-left: 50px;
+  
+}
+.navbar{
+    background-color: rgb(214, 72, 43);
+}
+header{
+    background-color: rgb(84, 165, 106);
+}
+.navbar-expand-lg{
+    background-color: rgb(95, 210, 107);
+}
